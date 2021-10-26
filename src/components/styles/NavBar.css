@@ -1,0 +1,14 @@
+.navbar .logo{
+    max-height: 36px ;
+}
+
+.navbar .userIcon{
+    color:gray;
+    font-size: 30px;
+    height: 40px;
+    margin-top: -12px;
+}
+
+.navbar{
+    background-color: yellowgreen !important;
+}

@@ -1,0 +1,22 @@
+#searchBar{
+  max-width: 200px;
+}
+
+#searchBar .searchInput{
+  max-height: 32px;
+  width:0;
+  background-color: gray;
+  border: none;
+}
+
+#searchBar.opened input {
+  width: 100%;
+  background-color: white;
+  padding-right: 24px;
+}
+
+#searchBar .searchIcon{
+  position: relative;
+  right:20px;
+  top: 2px;
+}
